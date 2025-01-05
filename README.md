@@ -50,12 +50,12 @@ To run the Text Generation System, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/PratikMitkar/Text-Generation-LSTM-GPT2.git
+   https://github.com/PratikMitkar/TEXT-GENERATION-LSTM-GPT2_ASSIGNMENT_4.git
    ```
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd Text-Generation-LSTM-GPT2
+   cd TEXT-GENERATION-LSTM-GPT2_ASSIGNMENT_4
    ```
 
 3. **Install Required Packages**:
